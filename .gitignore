@@ -172,6 +172,7 @@ test-db
 .idea/
 
 .DS_Store
+._*
 
 notebooks/*.yaml
 .ipynb_checkpoints/
@@ -186,3 +187,4 @@ eval/
 qdrant_storage/
 .crossnote
 testing.ipynb
+
